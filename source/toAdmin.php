@@ -1,5 +1,5 @@
 <?php
     include("toHeader.php");
-    include("Home/index.php");
+    include("Admin/index.php");
     include("toFooter.php");
 ?>
