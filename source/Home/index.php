@@ -1,12 +1,3 @@
-<!doctype html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="/dist/output.css" rel="stylesheet">
-  <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet" />
-</head>
-
 <?php
     // Makes connection With database
     include('connect.php');
@@ -33,7 +24,7 @@
     }   
 ?>
 
-<body class="h-screen bg-black text-green-400" >
+
     <div class="border-2 border-green-900 w-3/4 mx-auto mt-40">
         <div class="border-2 border-green-900 w-2/5 mx-auto border-t-0 h-10 text-center font-bold">
             DECODER DELUXE
@@ -60,5 +51,3 @@
             </form>
         </table>
     </div>
-</body>
-</html>
