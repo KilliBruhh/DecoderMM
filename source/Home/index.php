@@ -48,6 +48,7 @@
                 <tr>
                     <td class="w-60 text-center"><p class="mt-5  font-bold"><?php echo  $fout?></p></td>
                 </tr>
+                
             </form>
         </table>
     </div>
